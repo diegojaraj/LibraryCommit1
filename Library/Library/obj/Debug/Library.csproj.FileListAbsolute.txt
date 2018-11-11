@@ -16,3 +16,24 @@ E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO F
 E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO FINAL----\Library\Library\obj\Debug\Library.Vista.IngresarVenta.resources
 E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO FINAL----\Library\Library\obj\Debug\Library.Vista.ResultadoBusqueda.resources
 E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO FINAL----\Library\Library\obj\Debug\Library.Vista.Creditos.resources
+E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO FINAL----\Library\Library\bin\Debug\MyLibrary.dll
+E:\DESAROLLO DE SOFTWARE\Semestre 3\Herramientas de programacion 2\----TRABAJO FINAL----\Library\Library\bin\Debug\MyLibrary.pdb
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\bin\Debug\MyLibrary.pdb
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.ConsultarProducto.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.Creditos.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.IngresarProducto.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.IngresarVenta.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.Inventario.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Login.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.Vista.ResultadoBusqueda.resources
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\Diego A. Jaramillo\Desktop\Library\Library\obj\Debug\Library.pdb

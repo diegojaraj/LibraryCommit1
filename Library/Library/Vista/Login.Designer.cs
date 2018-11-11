@@ -241,13 +241,13 @@
         private System.Windows.Forms.Label lblContraseña;
         private Bunifu.Framework.UI.BunifuMetroTextbox txtContraseña;
         private System.Windows.Forms.Label lblUsuario;
-        private Bunifu.Framework.UI.BunifuMetroTextbox txtUsuario;
         private System.Windows.Forms.Label lblBienvenido;
         private System.Windows.Forms.Panel pnlTitulo;
         private System.Windows.Forms.Label lblInventario;
         private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton1;
         private Bunifu.Framework.UI.BunifuImageButton btnCancelar;
         private Bunifu.Framework.UI.BunifuFormFadeTransition FormTransiton;
+        public Bunifu.Framework.UI.BunifuMetroTextbox txtUsuario;
     }
 }
 

@@ -41,6 +41,7 @@
             this.lblNombreAqui = new System.Windows.Forms.Label();
             this.btnCreditos = new Bunifu.Framework.UI.BunifuTileButton();
             this.lblUsuarioLogeado = new System.Windows.Forms.Label();
+            this.tblOperacionRealizada = new System.Windows.Forms.Label();
             this.pnlTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnCancelar)).BeginInit();
             this.SuspendLayout();
@@ -240,11 +241,23 @@
             this.lblUsuarioLogeado.TabIndex = 24;
             this.lblUsuarioLogeado.Text = "USUARIO LOGEADO:";
             // 
+            // tblOperacionRealizada
+            // 
+            this.tblOperacionRealizada.AutoSize = true;
+            this.tblOperacionRealizada.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold);
+            this.tblOperacionRealizada.Location = new System.Drawing.Point(530, 65);
+            this.tblOperacionRealizada.Name = "tblOperacionRealizada";
+            this.tblOperacionRealizada.Size = new System.Drawing.Size(342, 18);
+            this.tblOperacionRealizada.TabIndex = 25;
+            this.tblOperacionRealizada.Text = "¡SU OPERACIÓN SE REALIZO CORRECTAMENTE!";
+            this.tblOperacionRealizada.Visible = false;
+            // 
             // Inventario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(875, 411);
+            this.Controls.Add(this.tblOperacionRealizada);
             this.Controls.Add(this.lblUsuarioLogeado);
             this.Controls.Add(this.btnCreditos);
             this.Controls.Add(this.lblNombreAqui);
@@ -278,6 +291,7 @@
         private Bunifu.Framework.UI.BunifuImageButton btnCancelar;
         private Bunifu.Framework.UI.BunifuTileButton btnCreditos;
         public System.Windows.Forms.Label lblNombreAqui;
-        private System.Windows.Forms.Label lblUsuarioLogeado;
+        public System.Windows.Forms.Label lblUsuarioLogeado;
+        public System.Windows.Forms.Label tblOperacionRealizada;
     }
 }

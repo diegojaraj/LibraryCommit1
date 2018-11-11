@@ -34,7 +34,8 @@ namespace Library
                 Inventario inventario = new Inventario();
                 inventario.Show();
                 inventario.lblNombreAqui.Text = txtUsuario.Text;
-                this.Hide();
+                txtUsuario.Text = "";
+                txtContraseña.Text = "";
             }
             else
             {
@@ -47,7 +48,7 @@ namespace Library
 
         private void Login_Load(object sender, EventArgs e)
         {
-            FormTransiton.ShowAsyc(this);
+            //FormTransiton.ShowAsyc(this);
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)

@@ -21,6 +21,7 @@ namespace Library.Vista
         {
             IngresarProducto ingresar = new IngresarProducto();
             ingresar.Show();
+            this.Hide();
         }
 
         private void btnConsultarProducto_Click(object sender, EventArgs e)

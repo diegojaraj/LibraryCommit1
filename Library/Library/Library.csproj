@@ -37,6 +37,9 @@
       <HintPath>C:\Users\Diego A. Jaramillo\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MyLibrary">
+      <HintPath>..\..\BACKUP\Librar\bin\Debug\MyLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -53,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Modelo\Conexion.cs" />
+    <Compile Include="Modelo\Producto.cs" />
     <Compile Include="Modelo\Usuarios.cs" />
     <Compile Include="Vista\ConsultarProducto.cs">
       <SubType>Form</SubType>
